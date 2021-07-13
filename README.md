@@ -62,7 +62,7 @@ That's it, you are done! Expect an email next week!
 ### Part I - Run and Deploy
 1. [Create Astra DB Instance](#1-login-or-register-to-astra-db-and-create-database)
 2. [Deploy to Netlify](#2-deploy-to-netlify)
-3. [Clone your GitHub repository](#3-clone-your-github-repository)
+3. [Browse to your GitHub repository](#3-browse-to-your-github-repository)
 4. [Launch GitPod](#4-launch-gitpod-ide)
 5. [Install the Netlify CLI](#5-install-the-netlify-cli-command-line-interface)
 6. [Generate application token to securely connect to the database](#6-generate-application-token-to-securely-connect-to-the-database)
@@ -143,7 +143,7 @@ This will take a few minutes.
     <img src="tutorial/images/deploy-4.png" />
     </details>
 
-### 3. Clone your GitHub repository
+### 3. Browse to your GitHub repository
 
   * Click on the `GitHub` in `Deploys from GitHub` to get back to your new repository.  Scroll to where you were in the README.
     <details>
