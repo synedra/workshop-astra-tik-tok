@@ -201,9 +201,9 @@ This is what the token page looks like.
 
 Notice the clipboard icon at the end of each value.
 
-- `Client ID:` We will use it as a username to contact Cassandra
+- `Client ID:` This is not important for this tutorial
 
-- `Client Secret:` We will use it as a password to contact Cassandra
+- `Client Secret:` This is not important for this tutorial
 
 - `Token:` We will use it as a api Key to interact with APIS
 
